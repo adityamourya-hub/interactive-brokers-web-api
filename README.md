@@ -1,6 +1,6 @@
-# 🦅 Nexus Quant: Autonomous Trading Intelligence
+Autonomous Trading Intelligence
 
-Nexus Quant is a sophisticated, AI-driven trading suite designed for the modern quantitative effort. It bridges Large Language Models (LLMs) with professional-grade execution through a unified, dockerized gateway for **Interactive Brokers (IBKR)**.
+An AI-driven trading suite designed for the modern quantitative effort. It bridges Large Language Models (LLMs) with professional-grade execution through a unified, dockerized gateway for **Interactive Brokers (IBKR)**.
 
 ![Trading Agent Demo](./ai-agent/agent_history_small.gif)
 
